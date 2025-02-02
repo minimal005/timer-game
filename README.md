@@ -44,4 +44,4 @@
 
 ## **Live Demo**
 
-Experience the live website: [React Quiz Demo](https://minimal005.github.io/Quiz-Victorina-React/)
+Experience the live website: [React Quiz Demo](https://minimal005.github.io/timer-game-React/)
